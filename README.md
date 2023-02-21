@@ -1,4 +1,11 @@
 # Flask-LINE-Bot-Heroku
+    heroku 的部署是來自以下網址 https://www.maxlist.xyz/2020/11/30/flask-line-bot-deploy-heroku/ 聊天機器人的內容才是我所撰寫的程式部分
+    
+## demo video link
+- 自動回覆文字
+https://drive.google.com/file/d/1Z7kcTp95yWLDHY8pdohgy-f1-sUz_5zf/view?usp=share_link
+- 自動回覆圖片
+https://drive.google.com/file/d/1ypMQ9E8zDiNTuy2h_3HgZ2jUw_DwN1Ig/view?usp=share_link
 
 ### 一. 自動部署 Heroku
 首先我們先做一個最簡單的 Echo Bot (也就是你跟他說什麼，他都會回覆一模一樣的話給你) 點擊下面紫色的 Deploy to Heroku 按鈕
